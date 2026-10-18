@@ -1,0 +1,26 @@
+# Executables and Binaries (Distributed via GitHub Releases)
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Local backups and runtime logs
+*.bak
+*.log
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

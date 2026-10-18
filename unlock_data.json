@@ -1,0 +1,832 @@
+{
+  "characters": [
+    {
+      "id": "BeatArena",
+      "unlock": "Characters.Croco"
+    },
+    {
+      "id": "Complete30StagesCareer",
+      "unlock": "Characters.Engineer"
+    },
+    {
+      "id": "CompleteThreeStages",
+      "unlock": "Characters.Bandit2"
+    },
+    {
+      "id": "CompleteUnknownEnding",
+      "unlock": "Characters.Mercenary"
+    },
+    {
+      "id": "DefeatSuperRoboBallBoss",
+      "unlock": "Characters.Loader"
+    },
+    {
+      "id": "FreeDrifter",
+      "unlock": "Characters.Drifter"
+    },
+    {
+      "id": "CompleteMainEnding",
+      "unlock": "Characters.Captain"
+    },
+    {
+      "id": "CompleteVoidEnding",
+      "unlock": "Characters.VoidSurvivor"
+    },
+    {
+      "id": "ChampRushRitualCompleted",
+      "unlock": "Characters.Acolyte"
+    },
+    {
+      "id": "FreeMage",
+      "unlock": "Characters.Mage"
+    },
+    {
+      "id": "RepeatFirstTeleporter",
+      "unlock": "Characters.Toolbot"
+    },
+    {
+      "id": "RescueTreebot",
+      "unlock": "Characters.Treebot"
+    },
+    {
+      "id": "UnlockFalseSon",
+      "unlock": "Characters.FalseSon"
+    },
+    {
+      "id": "ActivateChef",
+      "unlock": "Characters.Chef"
+    }
+  ],
+  "skills": [
+    {
+      "id": "CaptainBuyMegaDrone",
+      "unlock": "Skills.Captain.CaptainSupplyDropHacking"
+    },
+    {
+      "id": "CaptainVisitSeveralStages",
+      "unlock": "Skills.Captain.CaptainSupplyDropEquipmentRestock"
+    },
+    {
+      "id": "DrifterTinkerAchievement",
+      "unlock": "Skills.Drifter.Tinker"
+    },
+    {
+      "id": "EngiBatteryDrone",
+      "unlock": "Skills.Engi.LaserCutter"
+    },
+    {
+      "id": "LoaderBigSlam",
+      "unlock": "Skills.Loader.ZapFist"
+    },
+    {
+      "id": "LoaderKillLoaders",
+      "unlock": "Skills.Loader.Thunderslam"
+    },
+    {
+      "id": "TreebotBigHeal",
+      "unlock": "Skills.Treebot.SpecialAlt1"
+    },
+    {
+      "id": "TreebotDunkClayBoss",
+      "unlock": "Skills.Treebot.PlantSonicBoom"
+    },
+    {
+      "id": "TreebotLowHealthTeleporter",
+      "unlock": "Skills.Treebot.Barrage"
+    },
+    {
+      "id": "ToolbotBeatArenaLater",
+      "unlock": "Skills.Toolbot.SpecialAlt"
+    },
+    {
+      "id": "ToolbotGuardTeleporter",
+      "unlock": "Skills.Toolbot.Grenade"
+    },
+    {
+      "id": "ToolbotKillImpBossWithBfg",
+      "unlock": "Skills.Toolbot.Buzzsaw"
+    },
+    {
+      "id": "SeekerAirMultiHit",
+      "unlock": "Skills.Seeker.SoulSearch"
+    },
+    {
+      "id": "NukeSojourn",
+      "unlock": "Skills.Seeker.Reprieve"
+    },
+    {
+      "id": "SeekerPerfect20Meditation",
+      "unlock": "Skills.Seeker.PalmBlast"
+    },
+    {
+      "id": "RailgunnerAirborneMultiKill",
+      "unlock": "Skills.Railgunner.SpecialAlt1"
+    },
+    {
+      "id": "RailgunnerConsecutiveWeakPoints",
+      "unlock": "Skills.Railgunner.SecondaryAlt1"
+    },
+    {
+      "id": "RailgunnerDealMassiveDamage",
+      "unlock": "Skills.Railgunner.UtilityAlt1"
+    },
+    {
+      "id": "MercCompleteTrialWithFullHealth",
+      "unlock": "Skills.Merc.EvisProjectile"
+    },
+    {
+      "id": "MercDontTouchGround",
+      "unlock": "Skills.Merc.Uppercut"
+    },
+    {
+      "id": "MercXSkillsInYSeconds",
+      "unlock": "Skills.Merc.FocusedAssault"
+    },
+    {
+      "id": "MageAirborneMultiKill",
+      "unlock": "Skills.Mage.FlyUp"
+    },
+    {
+      "id": "MageFastBoss",
+      "unlock": "Skills.Mage.IceBomb"
+    },
+    {
+      "id": "MageMultiKill",
+      "unlock": "Skills.Mage.LightningBolt"
+    },
+    {
+      "id": "MagePillarSkip",
+      "unlock": "Skills.Mage.TectonicBlast"
+    },
+    {
+      "id": "LoaderSpeedRun",
+      "unlock": "Skills.Loader.YankHook"
+    },
+    {
+      "id": "HuntressAllGlaiveBouncesKill",
+      "unlock": "Skills.Huntress.FlurryArrow"
+    },
+    {
+      "id": "HuntressCollectArtifact",
+      "unlock": "Skills.Huntress.LaserCyclone"
+    },
+    {
+      "id": "HuntressCollectCrowbars",
+      "unlock": "Skills.Huntress.MiniBlink"
+    },
+    {
+      "id": "HuntressMaintainFullHealthOnFrozenWall",
+      "unlock": "Skills.Huntress.Snipe"
+    },
+    {
+      "id": "FalseSonGrowthChallenge",
+      "unlock": "Skills.FalseSon.LunarStake"
+    },
+    {
+      "id": "FalseSonKillMithrixWithGoldenGal",
+      "unlock": "Skills.FalseSon.MeridiansWill"
+    },
+    {
+      "id": "FalseSonLaserMultiKill",
+      "unlock": "Skills.FalseSon.LaserBurst"
+    },
+    {
+      "id": "EngiArmy",
+      "unlock": "Skills.Engi.WalkerTurret"
+    },
+    {
+      "id": "EngiClearTeleporterWithZeroMonsters",
+      "unlock": "Skills.Engi.Harpoon"
+    },
+    {
+      "id": "EngiKillBossQuick",
+      "unlock": "Skills.Engi.SpiderMine"
+    },
+    {
+      "id": "Enforcer2BlockXTeleporter",
+      "unlock": "Skills.Enforcer2.RageGas"
+    },
+    {
+      "id": "Enforcer2ParryVagrant",
+      "unlock": "Skills.Enforcer2.KineticCharge"
+    },
+    {
+      "id": "Enforcer2RepeatedlyDamageMagmaWorm",
+      "unlock": "Skills.Enforcer2.ClusterGrenade"
+    },
+    {
+      "id": "Enforcer2TankTitanLaser",
+      "unlock": "Skills.Enforcer2.ShieldLeap"
+    },
+    {
+      "id": "DroneTechDefeatVultureBossWhileAirborne",
+      "unlock": "Skills.DroneTech.ShieldFormation"
+    },
+    {
+      "id": "DroneTechJuggleLemurian",
+      "unlock": "Skills.DroneTech.DroneBallShootable"
+    },
+    {
+      "id": "DroneTechTrickshot",
+      "unlock": "Skills.DroneTech.CommandHeadbutt"
+    },
+    {
+      "id": "DroneTechUniqueDrones",
+      "unlock": "Skills.DroneTech.DroneHauler"
+    },
+    {
+      "id": "DrifterJunkCubeAchievement",
+      "unlock": "Skills.Drifter.JunkCube"
+    },
+    {
+      "id": "DrifterTornadoSlamAchievement",
+      "unlock": "Skills.Drifter.Tornado"
+    },
+    {
+      "id": "CrocoClearGameRestack",
+      "unlock": "Skills.Croco.CloyingBreath"
+    },
+    {
+      "id": "CrocoKillScavenger",
+      "unlock": "Skills.Croco.CrocoBite"
+    },
+    {
+      "id": "CrocoKillWeakEnemiesMilestone",
+      "unlock": "Skills.Croco.PassivePoisonLethal"
+    },
+    {
+      "id": "CrocoTotalInfectionsMilestone",
+      "unlock": "Skills.Croco.ChainableLeap"
+    },
+    {
+      "id": "BurnMithrix",
+      "unlock": "Skills.Chef.IceBox"
+    },
+    {
+      "id": "BarbecueQuantityBisonInRun",
+      "unlock": "Skills.Chef.YesChef"
+    },
+    {
+      "id": "RolyPolyHitFiveAirEnemies",
+      "unlock": "Skills.Chef.OilSpill"
+    },
+    {
+      "id": "CaptainSupplyDropFinale",
+      "unlock": "Skills.Captain.UtilityAlt1"
+    },
+    {
+      "id": "CommandoBeatBrotherMaxKarma",
+      "unlock": "Skills.Commando.Sabotage"
+    },
+    {
+      "id": "CommandoFastFirstStageClear",
+      "unlock": "Skills.Commando.SlideJet"
+    },
+    {
+      "id": "CommandoKillOverloadingWorm",
+      "unlock": "Skills.Commando.FireShotgunBlast"
+    },
+    {
+      "id": "CommandoNonLunarEndurance",
+      "unlock": "Skills.Commando.ThrowGrenade"
+    },
+    {
+      "id": "TreebotClearGameWithLunars",
+      "unlock": "Skills.Treebot.Proliferation"
+    },
+    {
+      "id": "Bandit2ConsecutiveReset",
+      "unlock": "Skills.Bandit2.Rifle"
+    },
+    {
+      "id": "Bandit2RevolverFinale",
+      "unlock": "Skills.Bandit2.SkullRevolver"
+    },
+    {
+      "id": "Bandit2StackSuperBleed",
+      "unlock": "Skills.Bandit2.SerratedShivs"
+    },
+    {
+      "id": "AcolyteJuggleLemurian",
+      "unlock": "Skills.Acolyte.Javelin"
+    },
+    {
+      "id": "AcolyteReaperMultiKill",
+      "unlock": "Skills.Acolyte.SoulJar"
+    },
+    {
+      "id": "AcolyteUniqueSacrifices",
+      "unlock": "Skills.Acolyte.Backpack"
+    }
+  ],
+  "skins": [
+    {
+      "id": "Bandit2Decompile",
+      "unlock": "Skins.Bandit2.AltSkinSolus"
+    },
+    {
+      "id": "CaptainDecompile",
+      "unlock": "Skins.Captain.AltSkinSolus"
+    },
+    {
+      "id": "CommandoPurge",
+      "unlock": "Skins.Commando.AltSkinVulture"
+    },
+    {
+      "id": "CrocoPurge",
+      "unlock": "Skins.Croco.AltSkinVulture"
+    },
+    {
+      "id": "EngiPurge",
+      "unlock": "Skins.Engi.AltSkinVulture"
+    },
+    {
+      "id": "HuntressPurge",
+      "unlock": "Skins.Huntress.AltSkinVulture"
+    },
+    {
+      "id": "LoaderDecompile",
+      "unlock": "Skins.Loader.AltSkinSolus"
+    },
+    {
+      "id": "MageDecompile",
+      "unlock": "Skins.Mage.AltSkinSolus"
+    },
+    {
+      "id": "MercPurge",
+      "unlock": "Skins.Merc.AltSkinVulture"
+    },
+    {
+      "id": "ToolbotPurge",
+      "unlock": "Skins.Toolbot.AltSkinVulture"
+    },
+    {
+      "id": "TreebotDecompile",
+      "unlock": "Skins.Treebot.AltSkinSolus"
+    },
+    {
+      "id": "VoidSurvivorClearGameHexes",
+      "unlock": "Skins.VoidSurvivor.AltSkinFungal"
+    },
+    {
+      "id": "VoidSurvivorClearGameMonsoon",
+      "unlock": "Skins.VoidSurvivor.Alt1"
+    },
+    {
+      "id": "VoidSurvivorClearMeridianEvent",
+      "unlock": "Skins.VoidSurvivor.Alt2"
+    },
+    {
+      "id": "TreebotClearGameMonsoon",
+      "unlock": "Skins.Treebot.Alt1"
+    },
+    {
+      "id": "TreebotClearUltima",
+      "unlock": "Skins.Treebot.AltSkinHallow"
+    },
+    {
+      "id": "TreebotClearMeridianEvent",
+      "unlock": "Skins.Treebot.Alt2"
+    },
+    {
+      "id": "ToolbotClearGameHexes",
+      "unlock": "Skins.Toolbot.AltSkinFungal"
+    },
+    {
+      "id": "ToolbotClearGameMonsoon",
+      "unlock": "Skins.Toolbot.Alt1"
+    },
+    {
+      "id": "ToolbotClearMeridianEvent",
+      "unlock": "Skins.Toolbot.Alt2"
+    },
+    {
+      "id": "SeekerClearChampRush",
+      "unlock": "Skins.Seeker.AltSkinLynx"
+    },
+    {
+      "id": "SeekerClearGameMonsoon",
+      "unlock": "Skins.Seeker.Alt1"
+    },
+    {
+      "id": "RailgunnerClearGameHexes",
+      "unlock": "Skins.RailGunner.AltSkinFungal"
+    },
+    {
+      "id": "RailgunnerClearGameMonsoon",
+      "unlock": "Skins.RailGunner.Alt1"
+    },
+    {
+      "id": "RailgunnerClearMeridianEvent",
+      "unlock": "Skins.RailGunner.Alt2"
+    },
+    {
+      "id": "MercClearGameHexes",
+      "unlock": "Skins.Merc.AltSkinFungal"
+    },
+    {
+      "id": "MercClearGameMonsoon",
+      "unlock": "Skins.Merc.Alt1"
+    },
+    {
+      "id": "MercClearMeridianEvent",
+      "unlock": "Skins.Merc.Alt2"
+    },
+    {
+      "id": "MageClearGameMonsoon",
+      "unlock": "Skins.Mage.Alt1"
+    },
+    {
+      "id": "MageClearUltima",
+      "unlock": "Skins.Mage.AltSkinHallow"
+    },
+    {
+      "id": "MageClearMeridianEvent",
+      "unlock": "Skins.Mage.Alt2"
+    },
+    {
+      "id": "LoaderClearGameHexes",
+      "unlock": "Skins.Loader.AltSkinFungal"
+    },
+    {
+      "id": "LoaderClearGameMonsoon",
+      "unlock": "Skins.Loader.Alt1"
+    },
+    {
+      "id": "LoaderClearMeridianEvent",
+      "unlock": "Skins.Loader.Alt2"
+    },
+    {
+      "id": "HuntressClearChampRush",
+      "unlock": "Skins.Huntress.AltSkinLynx"
+    },
+    {
+      "id": "HuntressClearGameMonsoon",
+      "unlock": "Skins.Huntress.Alt1"
+    },
+    {
+      "id": "HuntressClearMeridianEvent",
+      "unlock": "Skins.Huntress.Alt2"
+    },
+    {
+      "id": "FalseSonClearGameHexes",
+      "unlock": "Skins.FalseSon.AltSkinFungal"
+    },
+    {
+      "id": "FalseSonClearGameMonsoon",
+      "unlock": "Skins.FalseSon.Alt1"
+    },
+    {
+      "id": "EngiClearGameMonsoon",
+      "unlock": "Skins.Engi.Alt1"
+    },
+    {
+      "id": "EngiClearUltima",
+      "unlock": "Skins.Engi.AltSkinHallow"
+    },
+    {
+      "id": "EngiClearMeridianEvent",
+      "unlock": "Skins.Engi.Alt2"
+    },
+    {
+      "id": "Enforcer2ClearChampRush",
+      "unlock": "Skins.Enforcer2.AltSkinLynx"
+    },
+    {
+      "id": "Enforcer2ClearGameMonsoon",
+      "unlock": "Skins.Enforcer2.Alt1"
+    },
+    {
+      "id": "DroneTechClearGameMonsoon",
+      "unlock": "Skins.DroneTech.Alt1"
+    },
+    {
+      "id": "DrifterClearGameMonsoon",
+      "unlock": "Skins.Drifter.Alt1"
+    },
+    {
+      "id": "CrocoClearChampRush",
+      "unlock": "Skins.Croco.AltSkinLynx"
+    },
+    {
+      "id": "CrocoClearMeridianEvent",
+      "unlock": "Skins.Croco.Alt2"
+    },
+    {
+      "id": "ChefClearChampRush",
+      "unlock": "Skins.Chef.AltSkinLynx"
+    },
+    {
+      "id": "ChefClearGameMonsoon",
+      "unlock": "Skins.Chef.Alt1"
+    },
+    {
+      "id": "CaptainClearUltima",
+      "unlock": "Skins.Captain.AltSkinHallow"
+    },
+    {
+      "id": "CaptainClearMeridianEvent",
+      "unlock": "Skins.Captain.Alt2"
+    },
+    {
+      "id": "CaptainClearGameMonsoon",
+      "unlock": "Skins.Captain.Alt1"
+    },
+    {
+      "id": "CommandoClearChampRush",
+      "unlock": "Skins.Commando.AltSkinLynx"
+    },
+    {
+      "id": "CommandoClearGameMonsoon",
+      "unlock": "Skins.Commando.Alt1"
+    },
+    {
+      "id": "CommandoClearMeridianEvent",
+      "unlock": "Skins.Commando.Alt2"
+    },
+    {
+      "id": "CrocoClearGameMonsoon",
+      "unlock": "Skins.Croco.Alt1"
+    },
+    {
+      "id": "Bandit2ClearGameMonsoon",
+      "unlock": "Skins.Bandit2.Alt1"
+    },
+    {
+      "id": "Bandit2ClearUltima",
+      "unlock": "Skins.Bandit2.AltSkinHallow"
+    },
+    {
+      "id": "Bandit2ClearMeridianEvent",
+      "unlock": "Skins.Bandit2.Alt2"
+    },
+    {
+      "id": "AcolyteClearGameMonsoon",
+      "unlock": "Skins.Acolyte.Alt1"
+    },
+    {
+      "id": "AcolyteClearUltima",
+      "unlock": "Skins.Acolyte.AltSkinHallow"
+    }
+  ],
+  "items": [
+    {
+      "id": "AttackSpeed",
+      "unlock": "Items.AttackSpeedOnCrit"
+    },
+    {
+      "id": "AutomationActivation",
+      "unlock": "Items.Squid"
+    },
+    {
+      "id": "BurnToDeath",
+      "unlock": "Items.Cleanse"
+    },
+    {
+      "id": "CarryLunarItems",
+      "unlock": "Items.Meteor"
+    },
+    {
+      "id": "ChargeTeleporterWhileNearDeath",
+      "unlock": "Items.WarCryOnMultiKill"
+    },
+    {
+      "id": "CleanupDuty",
+      "unlock": "Items.Recycle"
+    },
+    {
+      "id": "Complete20Stages",
+      "unlock": "Items.Clover"
+    },
+    {
+      "id": "CompleteMultiBossShrine",
+      "unlock": "Items.Lightning"
+    },
+    {
+      "id": "CompleteTeleporter",
+      "unlock": "Items.BossDamageBonus"
+    },
+    {
+      "id": "CompleteTeleporterWithoutInjury",
+      "unlock": "Items.SecondarySkillMagazine"
+    },
+    {
+      "id": "CompleteThreeStagesWithoutHealing",
+      "unlock": "Items.IncreaseHealing"
+    },
+    {
+      "id": "DefeatFalseSon",
+      "unlock": "Items.HealAndRevive"
+    },
+    {
+      "id": "Die20Times",
+      "unlock": "Items.DeathProjectile"
+    },
+    {
+      "id": "Die5Times",
+      "unlock": "Items.Bear"
+    },
+    {
+      "id": "Discover10UniqueTier1",
+      "unlock": "Items.Crowbar"
+    },
+    {
+      "id": "Discover5Equipment",
+      "unlock": "Items.EquipmentMagazine"
+    },
+    {
+      "id": "CompleteMainEndingHard",
+      "unlock": "Items.LunarBadLuck"
+    },
+    {
+      "id": "CompletePrismaticTrial",
+      "unlock": "Items.HealOnCrit"
+    },
+    {
+      "id": "FailShrineChance",
+      "unlock": "Items.Hoof"
+    },
+    {
+      "id": "FindDevilAltar",
+      "unlock": "Items.NovaOnHeal"
+    },
+    {
+      "id": "FindTimedChest",
+      "unlock": "Items.BFG"
+    },
+    {
+      "id": "FindUniqueNewtStatues",
+      "unlock": "Items.Talisman"
+    },
+    {
+      "id": "HardEliteBossKill",
+      "unlock": "Items.KillEliteFrenzy"
+    },
+    {
+      "id": "HardHitter",
+      "unlock": "Items.ShockNearby"
+    },
+    {
+      "id": "KillBossQuantityInRun",
+      "unlock": "Items.LunarSkillReplacements"
+    },
+    {
+      "id": "KillBossQuick",
+      "unlock": "Items.TreasureCache"
+    },
+    {
+      "id": "KillElementalLemurians",
+      "unlock": "Items.ElementalRings"
+    },
+    {
+      "id": "KillEliteMonster",
+      "unlock": "Items.Medkit"
+    },
+    {
+      "id": "KillElitesMilestone",
+      "unlock": "Items.ExecuteLowHealthElite"
+    },
+    {
+      "id": "KillGoldTitanInOneCycle",
+      "unlock": "Items.Gateway"
+    },
+    {
+      "id": "KillTotalEnemies",
+      "unlock": "Items.Infusion"
+    },
+    {
+      "id": "LogCollector",
+      "unlock": "Items.Scanner"
+    },
+    {
+      "id": "LoopOnce",
+      "unlock": "Items.BounceNearby"
+    },
+    {
+      "id": "MajorMultikill",
+      "unlock": "Items.BurnNearby"
+    },
+    {
+      "id": "MaxHealingShrine",
+      "unlock": "Items.PassiveHealing"
+    },
+    {
+      "id": "MoveSpeed",
+      "unlock": "Items.JumpBoost"
+    },
+    {
+      "id": "MultiCombatShrine",
+      "unlock": "Items.EnergizedOnEquipmentUse"
+    },
+    {
+      "id": "NeverBackDown",
+      "unlock": "Items.FocusConvergence"
+    },
+    {
+      "id": "RepeatedlyDuplicateItems",
+      "unlock": "Items.Firework"
+    },
+    {
+      "id": "StayAlive1",
+      "unlock": "Items.ExtraLife"
+    },
+    {
+      "id": "SuicideHermitCrabs",
+      "unlock": "Items.AutoCastEquipment"
+    },
+    {
+      "id": "TotalDronesRepaired",
+      "unlock": "Items.DroneBackup"
+    },
+    {
+      "id": "TotalMoneyCollected",
+      "unlock": "Items.GoldGat"
+    },
+    {
+      "id": "UseThreePortals",
+      "unlock": "Items.Tonic"
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "ObtainArtifactDevotion",
+      "unlock": "Artifacts.Devotion"
+    },
+    {
+      "id": "ObtainArtifactDelusion",
+      "unlock": "Artifacts.Delusion"
+    },
+    {
+      "id": "ObtainArtifactRebirth",
+      "unlock": "Artifacts.Rebirth"
+    },
+    {
+      "id": "ObtainArtifactPrestige",
+      "unlock": "Artifacts.Prestige"
+    },
+    {
+      "id": "ObtainArtifactBomb",
+      "unlock": "Artifacts.Bomb"
+    },
+    {
+      "id": "ObtainArtifactCommand",
+      "unlock": "Artifacts.Command"
+    },
+    {
+      "id": "ObtainArtifactEliteOnly",
+      "unlock": "Artifacts.EliteOnly"
+    },
+    {
+      "id": "ObtainArtifactEnigma",
+      "unlock": "Artifacts.Enigma"
+    },
+    {
+      "id": "ObtainArtifactFriendlyFire",
+      "unlock": "Artifacts.FriendlyFire"
+    },
+    {
+      "id": "ObtainArtifactGlass",
+      "unlock": "Artifacts.Glass"
+    },
+    {
+      "id": "ObtainArtifactMixEnemy",
+      "unlock": "Artifacts.MixEnemy"
+    },
+    {
+      "id": "ObtainArtifactMonsterTeamGainsItems",
+      "unlock": "Artifacts.MonsterTeamGainsItems"
+    },
+    {
+      "id": "ObtainArtifactRandomSurvivorOnRespawn",
+      "unlock": "Artifacts.RandomSurvivorOnRespawn"
+    },
+    {
+      "id": "ObtainArtifactSacrifice",
+      "unlock": "Artifacts.Sacrifice"
+    },
+    {
+      "id": "ObtainArtifactShadowClone",
+      "unlock": "Artifacts.ShadowClone"
+    },
+    {
+      "id": "ObtainArtifactSingleMonsterType",
+      "unlock": "Artifacts.SingleMonsterType"
+    },
+    {
+      "id": "ObtainArtifactSwarms",
+      "unlock": "Artifacts.Swarms"
+    },
+    {
+      "id": "ObtainArtifactTeamDeath",
+      "unlock": "Artifacts.TeamDeath"
+    },
+    {
+      "id": "ObtainArtifactWeakAssKnees",
+      "unlock": "Artifacts.WeakAssKnees"
+    },
+    {
+      "id": "ObtainArtifactWispOnDeath",
+      "unlock": "Artifacts.WispOnDeath"
+    }
+  ]
+}

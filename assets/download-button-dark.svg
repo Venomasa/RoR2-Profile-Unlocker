@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" fill="none">
+  <defs>
+    <linearGradient id="darkBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1f2335" />
+      <stop offset="100%" stop-color="#16161e" />
+    </linearGradient>
+
+    <linearGradient id="accentBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7aa2f7" />
+      <stop offset="100%" stop-color="#3d59a1" />
+    </linearGradient>
+
+    <filter id="darkShadow" x="-10%" y="-15%" width="120%" height="140%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <!-- Button Background -->
+  <rect x="6" y="4" width="348" height="60" rx="12" fill="url(#darkBg)" filter="url(#darkShadow)" />
+  <!-- Neon Accent Border -->
+  <rect x="6.5" y="4.5" width="347" height="59" rx="11.5" fill="none" stroke="url(#accentBorder)" stroke-width="1.5" />
+
+  <!-- Left Icon Container -->
+  <rect x="18" y="14" width="40" height="40" rx="10" fill="#7aa2f7" fill-opacity="0.18" />
+
+  <!-- Windows Logo Vector -->
+  <g fill="#7aa2f7">
+    <rect x="27" y="23" width="9" height="9" rx="1.5" />
+    <rect x="38" y="23" width="9" height="9" rx="1.5" />
+    <rect x="27" y="34" width="9" height="9" rx="1.5" />
+    <rect x="38" y="34" width="9" height="9" rx="1.5" />
+  </g>
+
+  <!-- Typography -->
+  <text x="72" y="33" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="16" font-weight="700" fill="#ffffff" letter-spacing="0.2">Download for Windows</text>
+  <text x="72" y="51" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="11.5" font-weight="500" fill="#7aa2f7">RoR2_Profile_Unlocker.exe • Portable (v1.0.0)</text>
+
+  <!-- Right Download Arrow Icon -->
+  <circle cx="324" cy="34" r="14" fill="#7aa2f7" fill-opacity="0.18" />
+  <path d="M324 28v9m0 0l-3.5-3.5m3.5 3.5l3.5-3.5M319 40h10" stroke="#7aa2f7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
